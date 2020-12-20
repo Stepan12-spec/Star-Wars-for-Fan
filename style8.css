@@ -1,0 +1,289 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+body{
+	margin: 0;
+}
+.logoline{
+	height: 10vh;
+	background-color: #efefef;
+}
+.logo{
+	float: left;
+	margin-left: 100px;
+	padding-top: 15px;
+}
+.logo img{
+	width: 50px;
+	height: 50px;
+}
+.text{
+	float: left;
+	padding-left: 20px;
+	font-size: 20px;
+}
+.fonimg{
+	background-size: cover;
+	background-position: center;
+	height: 90vh;
+	background-image: url(https://media.discordapp.net/attachments/754336581338398752/785028369225220136/Ruki-devushki-na-klaviature.png?width=1194&height=671);
+}
+.fon{
+	height: 90vh;
+	background-color: #232328cc;
+}
+.header{
+	text-align:center;
+	padding-top: 90px;
+	color: white;
+	font-size: 55px;
+}
+.line{
+	width: 590px;
+	height: 2px;
+	margin: auto;
+	background-color: #3491e4;
+}
+.podtext{
+	color: white;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 14px;
+}
+.button{
+	width: 190px;
+	height: 30px;
+	margin: auto;
+}
+.button button{
+	width: 170px;
+	height: 40px;
+	background-color: #00000000;
+	color: white;
+	border: 2px solid #3491e4;
+	font-size: 16px;
+	cursor: pointer;
+	margin-top: 60px;
+	margin: auto;
+	outline: none;
+}
+.triangle{
+	width: 40px;
+	height: 40px;
+	margin: auto;
+	margin-top: 140px;
+}
+.triangle img{
+	width: 40px;
+	height: 40px;
+}
+.main{
+	width: 1125px;
+	height: 250px;
+	margin: auto;
+}
+.block{
+	float: left;
+	width: 350px;
+	height: 250px;
+	margin-left: 25px;
+	text-align: center;
+}
+.img1{
+	width: 50px;
+	height: 50px;
+	padding-top: 50px;
+}
+.img2{
+	width: 50px;
+	height: 50px;
+	padding-top: 50px;
+}
+.img3{
+	width: 50px;
+	height: 50px;
+	padding-top: 50px;
+}
+.Clone{
+	width: 350px;
+	height: 250px;
+	background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1013819236714361790/DA71B5BA6EAB7A44A24CBE2846C231F16F77869A/?imw=512&amp;imh=295&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+	background-size: cover;
+	background-position: center;
+	float: left;
+	margin:auto;
+	margin-bottom: 25px;
+}
+.blue{
+	width: 350px;
+	height: 250px;
+	background-color: #23232377;
+}
+.B1{
+	width: 350px;
+	height: 250px;
+	background-image: url(https://i.ytimg.com/vi/DXbD9lj3JWo/maxresdefault.jpg);
+	background-size:cover;
+	background-position: center;
+	float: left;
+	margin-left: 25px;
+}
+.Jetfire{
+	width: 350px;
+	height: 250px;
+	background-image: url(https://vignette.wikia.nocookie.net/rustarwars/images/3/32/Starfigher.jpg/revision/latest?cb=20130419122734);
+	background-size: cover;
+	background-position: center;
+	float: left;
+	margin-left: 25px;
+}
+.tank{
+	width: 350px;
+	height: 250px;
+	background-image: url(https://cdna.artstation.com/p/assets/images/images/003/463/608/large/alexander-but-tank3-0-00-00-00.jpg?1473951034);
+	background-size: cover;
+	background-position: center;
+	float: left;
+	clear: both;
+}
+.mandalorian{
+	width: 350px;
+	height: 250px;
+	background-image: url(https://media.moddb.com/images/downloads/1/42/41004/Wallpaper.jpg);
+	background-size: cover;
+	background-position: center;
+	float: left;
+	margin-left: 25px;
+}
+.rankor{
+	width: 350px;
+	height: 250px;
+	background-image: url(https://avatars.mds.yandex.net/get-zen_doc/1894366/pub_5e0204345ba2b500b5a383b8_5e020b5e433ecc00add7e828/scale_1200);
+	background-size: cover;
+	background-position: center;
+	float: left;
+	margin-left: 25px;
+}
+.main2{
+	width: 1100px;
+	height: 625px;
+	margin: auto;
+	text-align: center;
+}
+.form{
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	background-image: url(https://market-sletat.ru/hotel_photos/99074/99074_2.jpg);
+}
+.blackform{
+	height: 100vh;
+	background-color: #23232399;
+	text-align: center;
+	color: white;
+}
+.b1{
+	padding-top: 40px;
+}
+.form1{
+	width: 600px;
+	height: 450px;
+	margin: auto;
+	margin-top: 10px;
+	color: white;
+}
+.input1{
+	width: 598px;
+	height: 50px;
+	border: 1px solid grey;
+	background-color: #00000000;
+	color: white;
+}
+.input2{
+	width: 598px;
+	height: 50px;
+	border: 1px solid grey;
+	margin-top: 20px;
+	background-color: #00000000;
+	color: white;
+}
+.input3{
+	width: 598px;
+	height: 150px;
+	border: 1px solid grey;
+	margin-top: 20px;
+	background-color: #00000000;
+	color: white;
+}
+.input4{
+	float: left;
+	color: white;
+}
+
+.button1{
+	width: 100px;
+	height: 35px;
+	margin-left: 305px;
+	background-color: #00000000;
+	color: white;
+}
+.button1 button{
+	width: 100px;
+	height: 50px;
+	background-color: #00000000;
+	color: white;
+}
+.social{
+	height: 80px;
+}
+.text2{
+	color: grey;
+	padding-top: 30px;
+	padding-left: 200px;
+	float: left;
+}
+.facebook{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 700px;
+	margin-top: 18px;
+}
+.faceimg{
+	width: 50px;
+	height: 50px;
+}
+.twitter{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 18px;
+}
+.twitimg{
+	width: 50px;
+	height: 50px;
+}
+.youtube{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 18px;
+}
+.youimg{
+	width: 50px;
+	height: 50px;
+}
+.instagram{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 18px;
+}
+.instaimg{
+	width: 50px;
+	height: 50px;
+}
